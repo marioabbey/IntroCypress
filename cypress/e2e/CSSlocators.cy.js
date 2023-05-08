@@ -13,7 +13,7 @@ describe('CSS locators', () => {
         //cy.wait(1000)
 
         cy.get("div[class='row'] a:nth-child(3)").contains("t-shirts") //assertion
-   
+
    
     })
 
